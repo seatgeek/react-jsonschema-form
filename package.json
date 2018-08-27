@@ -38,7 +38,7 @@
     "node": ">=6"
   },
   "peerDependencies": {
-    "react": ">=15"
+    "react": "^0.14.0 || ^15.0.0"
   },
   "dependencies": {
     "ajv": "^5.2.3",
